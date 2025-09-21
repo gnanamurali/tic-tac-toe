@@ -22,11 +22,6 @@ The game checks for a winner after each turn and also provides a reset option to
 
 ---
 
-## 📷 Demo
-(Add a screenshot or GIF of your game here if you’d like)
-
----
-
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
